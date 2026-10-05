@@ -13,10 +13,10 @@ I enjoy working with data to understand patterns, find what is driving an outcom
 
 ### Projects
 
-**People Analytics — Employee Attrition**  
+**[People Analytics — Employee Attrition](https://github.com/tejuanalyzes/people-analytics-attrition-dashboard)**  
 Python + Power BI project analysing employee attrition, data quality issues and potential drivers of exits.
 
-**Ecommerce Sales Analysis — theLook**  
+**[Ecommerce Sales Analysis — theLook](https://github.com/tejuanalyzes/thelook-ecommerce-analysis)**  
 BigQuery SQL + Power BI project analysing revenue, growth, profit, margins, orders, returns, cancellations and product performance.
 
 **Excel Analysis**  
